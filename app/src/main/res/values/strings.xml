@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android課題</string>
+
+    <string name="action_bar_title_home">ホーム</string>
+    <string name="button_check_answers">他の回答を見る</string>
+    <string name="button_submit_answer">回答する</string>
+</resources>
